@@ -9,7 +9,7 @@ import { getAnalytics } from "firebase/analytics";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore"
 const firebaseConfig = {
-  apiKey: "AIzaSyC0E3D1dXbol3gK4tI-qB9_lt4U8fbR-_s",
+  apiKey: "",
   authDomain: "travel-e57d3.firebaseapp.com",
   projectId: "travel-e57d3",
   storageBucket: "travel-e57d3.appspot.com",
